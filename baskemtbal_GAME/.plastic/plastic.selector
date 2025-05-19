@@ -1,0 +1,4 @@
+repository "baskemtbal_GAME 2025-05-19_12-47-07/baskemtbal_GAME@10171501143259@cloud"
+  path "/"
+    br "/main"
+    co "/main"
